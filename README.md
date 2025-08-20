@@ -22,6 +22,3 @@ This repository contains experiments on detecting hateful Arabic memes by combin
 | EfficientNetB7 + mBERT           | 0.62 |
 | **Proposed: InceptionNet + mBERT** | **0.63** |
 
-## Installation
-```bash
-pip install -r requirements.txt
