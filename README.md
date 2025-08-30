@@ -22,14 +22,14 @@ Hateful memes in Arabic are often subtle, requiring joint reasoning over both **
 
 ## Leaderboard Performance
 
-| 🏅 Rank | Team         | Macro F1-score |
-|--------|--------------|----------------|
-| 1st    | NYUAD        | 80%            |
-| 2nd    | yassirea     | 75%            |
-| 3rd    | mzaytoon     | 74%            |
-| 4th    | itbaan       | 72%            |
-| 5th    | annasshaikh2003 | 68%        |
-|**6th**    | **joy_2004114 (CUET_NLP)** | **63%**        |
+| 🏅 Rank | Team        
+|--------|--------------
+| 1st    | NYUAD        
+| 2nd    | yassirea     
+| 3rd    | mzaytoon     
+| 4th    | itbaan       
+| 5th    | annasshaikh2003 
+|**6th**    | **joy_2004114 (CUET_NLP)** 
 
 ---
 
