@@ -1,5 +1,5 @@
 # -Multimodal-Fusion-based-System-for-Filtering-Hate-Speech-from-Memes
-This repository contains the official implementation of our system submitted to the MAHED Shared Task at ArabicNLP 2025, where our team CUET_NLP ranked 6th among 42 participating teams on the final leaderboard.
+
 
 # 🧠 A Multimodal Fusion-based System for Filtering Hate Speech from Memes
 
