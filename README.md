@@ -109,7 +109,7 @@ Hateful memes in Arabic are often subtle, requiring joint reasoning over both **
 
 ## 📌 Citation
 
-If you use this code or refer to our results, please cite our paper (to be officially released in ArabicNLP 2025 proceedings):
+If you use this code or refer to our results, please cite our paper (to be officially released in ArabicNLP 2025 proceedings): [https://aclanthology.org/2025.arabicnlp-sharedtasks.94/]
 
 
 
